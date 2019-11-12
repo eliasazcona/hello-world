@@ -1,0 +1,67 @@
+Un proyecto es un esfuerzo temporal para lograr un objetivo y que los mismos tienen características como que son únicos, con recursos limitados, cierto grado de incertidumbre y otros. 
+Existe una diferencia con relación a las operaciones y es que estas últimas continúan produciendo ciertas tareas que producen salidas repetitivas. 
+Los proyectos buscan lograr las estrategias y cerrar las brechas con las operaciones y dicho plan. 
+“Nuestra vida es un proyecto”
+Existen diferentes estructuras en una organización, cada una de ellas responde a una forma diferente de gestionar proyectos como por ejemplo, funcional, orientado a proyectos, orgánica o sencilla, virtual.
+
+
+
+------------------------------Novimebre 11, 2019
+
+Ciclo de vida de un proyecto
+Serie de fases que atraviesa un proyecto desde su inicio
+hasta su conclusion.
+
+Predictivo, Iterativo, Incremental, Adaptativo, Hibrido. 
+
+El predictivo es donde se el servicio/producto final que
+va a salir. 
+El incremental te entrego una parte de producto funcional, y se
+va dando cada incremento en un tiempo determinado. 
+El adaptativo se adapta a los cambios y requerimientos del
+cliente. 
+
+No todos los proyectos se pueden hacer predictivos/agil. 
+
+49 procesos, tienen entrada, herramientas/tecnicas y salidas
+ 
+Grupos de Procesos
+Inicio
+Planificacion
+Ejecucion
+Monitoreo y Control
+Cierre
+
+Triple restriccion: Alcance, Costo y Tiempo.
+
+Influencias del proyecto: 
+EEFs ( factores ambientales de la empresa) 
+condiciones que no estan bajo el control directo del equipo y que
+influyen, restrigen o dirigen el proyecto, programa o portafilio. 
+
+Activos de los procesos de la organizacion (OPAs)
+Planes, procesos, politicas, procedimientos y bases de conocimiento
+que son especificos de la organizacion ejecutante y que son
+utilizadas por la misma.
+
+Gobernanza del Proyecto
+Marco, funciones y procesos que guian las actividades de direccion
+del proyecto a fin de crear un producto, servicio o resultado
+unico para cumplir con las metas organizacionales, estrategicas
+y operativas.
+
+Rol de Director de Proyectos
+Conocimiento, desempeno, desarrollo de habilidades personales.
+
+
+Acta constitucion del proyecto
+-Inicio y limites del proyecto bien definido
+-Creacion de un registro formal del proyecto
+-Establecimiento de una forma directa para que la direccion
+general acepte y se comprometa con el proyecto
+
+Me da un resumen de lo que va a ser el proyecto, a alto nivel. 
+
+Registro de supuestos: documento del proyecto utilizado 
+para registrar todos los supuestos y restricciones a lo largo
+del ciclo de vida del proyecto. 
